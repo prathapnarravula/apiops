@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "scope": "/products/unlimited",
+    "allowTracing": false,
+    "ownerId": "/subscriptions/f560e450-6e67-4b59-96dc-a6e8ffdd3b20/resourceGroups/dev-rg/providers/Microsoft.ApiManagement/service/dev-apim-cicd-prathap/users/1",
+    "state": "active"
+  }
+}
